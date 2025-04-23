@@ -1,0 +1,3 @@
+[submodule "external/webapp-text-generator"]
+	path = external/webapp-text-generator
+	url = https://github.com/langgenius/webapp-text-generator
